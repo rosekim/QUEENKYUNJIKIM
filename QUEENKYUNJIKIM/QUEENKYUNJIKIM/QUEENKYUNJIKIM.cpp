@@ -10,6 +10,8 @@ int main()
     cout << "hi hello nice to meet" << endl;
     cout << "you" << endl;
     cout << "test" << endl;
+    cout << "test" << endl;
+    cout << "test" << endl;
 
 }
 
