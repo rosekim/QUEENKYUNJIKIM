@@ -11,6 +11,8 @@ int main()
     srand(time(NULL));
     int rand_num = rand() % 100 + 1;
     int test2;
+
+    std::cout << "하하 진짜 모르겠다 ㅁㄴㅎㅇㅁㄴㅇㄹ홈ㄴ옿" << std::endl;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
