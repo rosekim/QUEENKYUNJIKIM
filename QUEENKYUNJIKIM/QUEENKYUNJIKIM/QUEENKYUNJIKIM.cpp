@@ -10,6 +10,5 @@ int main()
 {
     srand(time(NULL));
     int rand_num = rand() % 100 + 1;
-
     std::cout << rand_num << std::endl;
 }
