@@ -4,8 +4,12 @@
 #include <iostream>
 using namespace std;
 
+#include <conio.h>
+
+
 int main()
 {
+
     cout << "Hello World!\n";
     cout << "hi hello nice to meet" << endl;
     cout << "you" << endl;
@@ -13,6 +17,11 @@ int main()
     cout << "test" << endl;
     cout << "test" << endl;
 
-}
 
+
+
+
+    srand(time(NULL));
+    int rand_num = rand() % 100 + 1;
+}
 
