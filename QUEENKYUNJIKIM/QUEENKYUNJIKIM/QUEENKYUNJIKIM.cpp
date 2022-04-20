@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "Hello Collaboration\n";
+    std::cout << "Hello Collaboration" << std::endl << std::endl;
+    std::cout << "★Queen Kyunji☆" << std::endl;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
