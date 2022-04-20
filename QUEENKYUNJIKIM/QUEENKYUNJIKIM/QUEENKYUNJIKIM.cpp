@@ -7,6 +7,8 @@ int main()
 {
     std::cout << "Hello World!\n";
     printf("김영훈 수정");
+    printf("22.04.20_17:20 김재성 수정");
+
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
