@@ -5,6 +5,7 @@
 
 int main()
 {
+    std::cout << "Hello Collaboration" << std::endl;
     std::cout << "Hello Collaboration" << std::endl << std::endl;
     std::cout << "★Queen Kyunji☆" << std::endl;
 }
