@@ -3,10 +3,13 @@
 
 #include <iostream>
 
+#include <conio.h>
+
+
 int main()
 {
-    std::cout << "Hello Collaboration\n";
-    std::cout << "Hello Collaboration\n";
+    srand(time(NULL));
+    int rand_num = rand() % 100 + 1;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
