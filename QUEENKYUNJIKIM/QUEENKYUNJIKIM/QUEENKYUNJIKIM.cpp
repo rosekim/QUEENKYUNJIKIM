@@ -10,7 +10,7 @@ int main()
 {
     srand(time(NULL));
     int rand_num = rand() % 100 + 1;
-    int test;
+    int test1;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
