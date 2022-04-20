@@ -3,10 +3,11 @@
 
 #include <iostream>
 
+#include <conio.h>
+
+
 int main()
 {
-    std::cout << "Hello Collaboration" << std::endl;
-    std::cout << "Hello Collaboration" << std::endl << std::endl;
-    std::cout << "★Queen Kyunji☆" << std::endl << std::endl;
-    std::cout << "Hello im jaemin\n";
+    srand(time(NULL));
+    int rand_num = rand() % 100 + 1;
 }
