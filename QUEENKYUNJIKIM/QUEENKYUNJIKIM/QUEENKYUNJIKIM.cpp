@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello Collaboration\n";
+
     std::cout << "Hello Collaboration\n";
 }
 
