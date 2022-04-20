@@ -3,8 +3,13 @@
 
 #include <iostream>
 
+#include <conio.h>
+
+
 int main()
 {
-    std::cout << "Hello World!" << std::endl << std::endl;
-    std::cout << "★Queen Kyunji★";
+    srand(time(NULL));
+    int rand_num = rand() % 100 + 1;
+
+    std::cout << rand_num << std::endl;
 }
